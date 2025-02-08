@@ -3,6 +3,7 @@
 S3method(autoplot,case_data)
 export(autoplot)
 export(load_data)
+export(plot_jags_dens)
 export(prep_data)
 export(run_mod)
 export(sim_case_data)

@@ -4,6 +4,7 @@
 
 ## New features
 
+* Diagnostic function to produce density plots with stratification (#27)
 * Added `autoplot()` method for `case_data` objects (#28)
 * Added examples for `sim_pop_data()`, `autoplot.case_data()` (#18)
 * Added attributes as a return to the run_mod function (#24)
