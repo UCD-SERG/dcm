@@ -1,6 +1,6 @@
 Package: serodynamics
 Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9011
+Version: 0.0.0.9012
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
@@ -36,5 +36,5 @@ Language: en-US
 Config/testthat/edition: 3
 Config/needs/test: withr, vdiffr
 Config/needs/check: commonmark, xml2
-Remotes:  
+Remotes: 
     ucd-serg/serocalculator
