@@ -12,6 +12,7 @@
 #' @importFrom dplyr select
 #' @importFrom dplyr ungroup
 #' @importFrom ggmcmc ggs
+#' @importFrom ggplot2 theme_bw
 #' @importFrom ggplot2 vars
 #' @importFrom rlang .data
 #' @importFrom runjags run.jags
