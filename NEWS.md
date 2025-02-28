@@ -4,6 +4,7 @@
 
 ## New features
 
+* Fixing SEES data and added jags_post for SEES (#63)
 * Added SEES data set data folder and documentation (#41)
 * `as_case_data()` now creates column `visit_num` (#47, #50)
 * Added `postprocess_jags_output()` to API (#33)
